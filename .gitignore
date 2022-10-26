@@ -1,0 +1,7 @@
+*.java
+
+*.py
+
+!first.java
+
+[suresh]*.net
